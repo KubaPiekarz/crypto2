@@ -30,9 +30,6 @@ function App() {
     coin.name.toLowerCase().includes(search.toLowerCase())
   )
 
-
-
-
   return (
     <div className="App">
       <div className="menu">
